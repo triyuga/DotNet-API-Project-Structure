@@ -1,7 +1,11 @@
 {
     "dotnet.defaultSolution": "CoffeeShop.sln",
     "editor.formatOnSave": true,
+    "editor.defaultFormatter": "EditorConfig.EditorConfig",
     "[csharp]": {
         "editor.defaultFormatter": "csharpier.csharpier-vscode"
     },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    }
 }
