@@ -40,6 +40,10 @@ Add csharpier `.vscode/extensions.json`
 }
 ```
 
+## Integrate with Fake Coffee API
+
+https://fake-coffee-api.vercel.app/
+
 ## VS Code - C# Dev Kit extension
 
 [Introductory Videos for C# in VS Code](https://code.visualstudio.com/docs/csharp/introvideos-csharp)
